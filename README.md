@@ -2,6 +2,9 @@
 
 Data-focused analyst with a background in statistics and retirement benefits analysis. Interested in using SQL, Python, and data visualization to uncover patterns in real-world datasets.
 
+LinkedIn:
+https://linkedin.com/in/christian-miyares
+
 ## Tools
 
 - SQL
